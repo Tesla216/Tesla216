@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tesla216
 - 👀 I’m interested in programming, Tesla, and squirrels
-- 🌱 I’m currently learning Batch
+- 🌱 I’m currently learning Java and Batch 
 
 <!---
 Tesla216/Tesla216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
